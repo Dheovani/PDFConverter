@@ -19,7 +19,8 @@ git clone https://github.com/Dheovani/PDFConverter.git
 ```
 
 2. Open a terminal and navigate to the cloned directory.
-3. Run the script by executing the following command:
+3. Run `pip install -r requirements.txt`
+4. Run the script by executing the following command:
 
 ```python
 python3 PDFConverter.py
